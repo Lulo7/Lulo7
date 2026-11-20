@@ -50,6 +50,10 @@ Aplicación web de comercio electrónico enfocada en la presentación y comercia
 **Vista previa del proyecto**
 
 ![DRAKO - Página principal](./assets/drako-home.png)
+![DRAKO - Página principal](./assets/Login.png)
+![DRAKO - Página principal](./assets/Registro.png)
+![DRAKO - Página principal](./assets/Carrito.png)
+![DRAKO - Página principal](./assets/Administracion.png)
 
 **Tecnologías:** Angular, TypeScript, Node.js, Express.js y MongoDB.
 
