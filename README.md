@@ -76,7 +76,6 @@ Estoy ampliando mis conocimientos para comprender mejor el desarrollo y la segur
 - **Linux:** terminal, administración básica y herramientas de red.
 - **Ciberseguridad:** fundamentos de seguridad, análisis de tráfico y seguridad web.
 - **Backend con Java:** Java, Spring Boot y desarrollo de API REST.
-- **Seguridad de aplicaciones:** OWASP, AppSec y prácticas de desarrollo seguro.
 
 Mi objetivo es integrar el desarrollo de software con la ciberseguridad para construir aplicaciones que no solo funcionen correctamente, sino que también estén diseñadas pensando en la seguridad.
 
