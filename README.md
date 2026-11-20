@@ -1,101 +1,165 @@
-# ¡Hola! Soy Alejo 👋
+# 👋 Hi, I'm Alejandro Gallo
 
-### Desarrollador Full Stack / Backend | Estudiante de Ingeniería de Sistemas
+### Full Stack Developer | Backend Developer
 
-Soy desarrollador de software en formación, con interés en construir aplicaciones web funcionales, escalables y bien estructuradas. Actualmente curso Ingeniería de Sistemas en la **Universidad Nacional Abierta y a Distancia (UNAD)** y continúo fortaleciendo mis habilidades en desarrollo backend, arquitectura de software y ciberseguridad.
+I'm a Systems Engineering student from Colombia, passionate about software development, backend engineering and building practical web applications.
 
-Me gusta aprender construyendo proyectos reales, resolver problemas mediante código y comprender cómo funcionan los sistemas más allá de su interfaz.
+I enjoy designing and developing applications, building REST APIs, working with databases and deploying solutions in cloud environments.
 
-- 💻 Enfoque actual: desarrollo **Backend y Full Stack**.
-- 🚀 Proyecto destacado: **DRAKO**, una tienda web de relojes.
-- 🔐 Aprendiendo ciberseguridad, redes, Linux y seguridad de aplicaciones.
-- 📚 Explorando Java, Spring Boot y buenas prácticas de desarrollo.
-- 🎯 Objetivo: crecer como desarrollador y construir soluciones de software seguras, mantenibles y eficientes.
+My main focus is backend development, while maintaining full stack knowledge to understand and build complete applications.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 👨‍💻 About Me
 
-### Desarrollo web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend y bases de datos
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Herramientas y entorno de trabajo
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🎓 Systems Engineering student at UNAD.
+- 💻 Full Stack Developer with a focus on Backend Development.
+- 🚀 Creator of **DRAKO**, a full stack e-commerce application.
+- ☁️ Experience deploying applications using DigitalOcean.
+- 🌐 Knowledge of AWS EC2 and load balancing.
+- 🧪 Knowledge of unit and integration testing.
+- 📚 Currently learning Java, Spring Boot and Docker.
+- 🎯 Interested in Backend Development, Software Architecture and Cloud Infrastructure.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Technical Skills
 
-### ⌚ DRAKO — Tienda web de relojes
+### Programming Languages
 
-Aplicación web de comercio electrónico enfocada en la presentación y comercialización de relojes, con una interfaz elegante y funcionalidades de compra en línea.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+</p>
 
-**Vista previa del proyecto**
+### Frontend Development
 
-![DRAKO - Página principal](./assets/drako-home.png)
-![DRAKO - Página principal](./assets/Login.png)
-![DRAKO - Página principal](./assets/Registro.png)
-![DRAKO - Página principal](./assets/Carrito.png)
-![DRAKO - Página principal](./assets/Administracion.png)
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
+</p>
 
-**Tecnologías:** Angular, TypeScript, Node.js, Express.js y MongoDB.
+### Backend Development
 
-**Funcionalidades principales:**
-- Desarrollo de interfaces web y componentes reutilizables.
-- Autenticación y gestión de usuarios.
-- Consumo de servicios mediante API REST.
-- Gestión de productos, imágenes y carrito de compras.
-- Separación del frontend y backend.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-🔗 [Ver mis repositorios en GitHub](https://github.com/Lulo7)
+### Databases
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-## 🔐 Actualmente aprendiendo
+### Cloud & Infrastructure
 
-Estoy ampliando mis conocimientos para comprender mejor el desarrollo y la seguridad de las aplicaciones.
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,digitalocean" />
+</p>
 
-- **Redes y protocolos:** TCP/IP, TCP, UDP, DNS y HTTP.
-- **Linux:** terminal, administración básica y herramientas de red.
-- **Ciberseguridad:** fundamentos de seguridad, análisis de tráfico y seguridad web.
-- **Backend con Java:** Java, Spring Boot y desarrollo de API REST.
+### Development Tools
 
-Mi objetivo es integrar el desarrollo de software con la ciberseguridad para construir aplicaciones que no solo funcionen correctamente, sino que también estén diseñadas pensando en la seguridad.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
----
+### Testing
 
-## 🎓 Formación
+- Jasmine
+- Karma
+- Unit Testing
+- Integration Testing
 
-- **Ingeniería de Sistemas** — Universidad Nacional Abierta y a Distancia (UNAD). En curso.
-- **Bootcamp Full Stack** — Formación de 400 horas. En curso.
-- **Diplomado en Programación Java** — Politécnico de Colombia. 120 horas.
+### Currently Learning
 
----
-
-## 🤝 Conectemos
-
-Estoy interesado en oportunidades Junior de desarrollo Backend y Full Stack, proyectos colaborativos y espacios donde pueda seguir aprendiendo y aportando.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lulo7-181717?style=for-the-badge&logo=github)](https://github.com/Lulo7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-gallo-webdeveloper/)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,docker" />
+</p>
 
 ---
 
-*“El aprendizaje constante transforma los problemas en oportunidades para construir algo mejor.”*
+## 🚀 Featured Projects
+
+### DRAKO — Full Stack E-commerce
+
+A full stack e-commerce application developed for the commercialization and management of watches.
+
+**Technologies:**
+Angular 17 · TypeScript · Node.js · Express 5 · MongoDB · Bootstrap · DigitalOcean
+
+**Main Features:**
+
+- User registration and authentication.
+- User account management.
+- Product catalog and filtering.
+- Product details.
+- Shopping cart management.
+- Product image uploads and administration.
+- REST API integration.
+- Database management with MongoDB.
+- Cloud deployment using DigitalOcean Droplets.
+
+**Repository:** [DRAKO](https://github.com/Lulo7/DRAKO)
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+Practical knowledge and experience working with cloud infrastructure and application deployment.
+
+**DigitalOcean**
+- Droplets.
+- Application deployment.
+- Cloud server configuration.
+
+**Amazon Web Services (AWS)**
+- EC2 instances.
+- Load balancer configuration.
+- Cloud infrastructure practices.
+
+---
+
+## 🎓 Education & Certifications
+
+**Full Stack Web Development Bootcamp**
+
+Build Innovate Transform (BIT)  
+400 hours · May – November 2026
+
+**Java Programming Diploma**
+
+Politécnico de Colombia  
+120 hours · 2023
+
+**Systems Engineering**
+
+Universidad Nacional Abierta y a Distancia (UNAD)  
+2025 – Present
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lulo7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulo7&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/alejandro-gallo-webdeveloper/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lulo7">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** alejogallolozano@gmail.com
+
+---
+
+<p align="center">
+  <i>"Always learning, building and improving."</i>
+</p>
